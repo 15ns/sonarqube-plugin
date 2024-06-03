@@ -41,6 +41,7 @@
   </issueManagement>
 
   <properties>
+    <sonar.host.url>http://localhost:9000</sonar.host.url>
     <revision>2.18</revision>
     <changelist>-SNAPSHOT</changelist>
     <gitHubRepo>jenkinsci/sonarqube-plugin</gitHubRepo>
